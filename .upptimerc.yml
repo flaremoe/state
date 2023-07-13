@@ -17,6 +17,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: state.ci-wiki.cn
   # baseUrl: /your-repo-name
+  baseUrl: /state
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: 混沌分裂者服务状态监控系统
   introTitle: 混沌分裂者服务状态监控系统
@@ -101,7 +102,6 @@ i18n:
   completeOutage: "🟥 全部停机"
   partialOutage: "🟧 部分停机"
 
-status-website:
-  theme: light
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
