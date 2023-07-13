@@ -101,6 +101,7 @@ i18n:
   completeOutage: "🟥 全部停机"
   partialOutage: "🟧 部分停机"
 
-
+status-website:
+  theme: light
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
