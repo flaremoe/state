@@ -1,7 +1,7 @@
-url: http://cicnsandbox.wikidot.com
-status: up
-code: 200
-responseTime: 22845
-lastUpdated: 2026-02-22T16:49:21.932Z
+url: http://alpha-cn.wikidot.com
+status: down
+code: 503
+responseTime: 42
+lastUpdated: 2026-02-22T16:49:22.424Z
 startTime: 2023-07-13T02:49:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
