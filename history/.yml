@@ -1,7 +1,7 @@
-url: http://alpha-cn.wikidot.com
-status: down
-code: 503
-responseTime: 135
-lastUpdated: 2026-03-03T21:49:17.320Z
+url: http://ci-cn-wiki.wikidot.com
+status: up
+code: 200
+responseTime: 176
+lastUpdated: 2026-03-03T22:01:35.851Z
 startTime: 2023-07-13T02:49:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
