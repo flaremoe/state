@@ -11,9 +11,9 @@
     "uptimeMonth": "98.20%",
     "uptimeYear": "99.48%",
     "time": 320,
-    "timeDay": 543,
-    "timeWeek": 473,
-    "timeMonth": 360,
+    "timeDay": 275,
+    "timeWeek": 427,
+    "timeMonth": 357,
     "timeYear": 320,
     "dailyMinutesDown": {
       "2026-08-31": 787
@@ -25,15 +25,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/cicnsandbox.wikidot.com.ico",
     "slug": "混沌中文沙盒站",
     "status": "up",
-    "uptime": "99.48%",
+    "uptime": "99.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.21%",
-    "uptimeYear": "99.48%",
+    "uptimeYear": "99.49%",
     "time": 183,
-    "timeDay": 232,
-    "timeWeek": 217,
-    "timeMonth": 185,
+    "timeDay": 148,
+    "timeWeek": 203,
+    "timeMonth": 180,
     "timeYear": 183,
     "dailyMinutesDown": {
       "2026-08-31": 782
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.23%",
     "uptimeYear": "99.49%",
-    "time": 179,
-    "timeDay": 241,
-    "timeWeek": 222,
-    "timeMonth": 173,
-    "timeYear": 179,
+    "time": 178,
+    "timeDay": 123,
+    "timeWeek": 206,
+    "timeMonth": 168,
+    "timeYear": 178,
     "dailyMinutesDown": {
       "2026-08-31": 777
     }
