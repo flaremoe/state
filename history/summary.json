@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/ci-cn-wiki.wikidot.com.ico",
     "slug": "混沌分裂者中文分部",
     "status": "up",
-    "uptime": "99.49%",
+    "uptime": "99.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.20%",
-    "uptimeYear": "99.49%",
+    "uptimeYear": "99.50%",
     "time": 318,
-    "timeDay": 229,
-    "timeWeek": 399,
-    "timeMonth": 349,
+    "timeDay": 258,
+    "timeWeek": 363,
+    "timeMonth": 346,
     "timeYear": 318,
     "dailyMinutesDown": {
       "2026-08-31": 787
@@ -31,9 +31,9 @@
     "uptimeMonth": "98.21%",
     "uptimeYear": "99.50%",
     "time": 181,
-    "timeDay": 52,
-    "timeWeek": 187,
-    "timeMonth": 176,
+    "timeDay": 103,
+    "timeWeek": 166,
+    "timeMonth": 175,
     "timeYear": 181,
     "dailyMinutesDown": {
       "2026-08-31": 782
@@ -51,9 +51,9 @@
     "uptimeMonth": "98.23%",
     "uptimeYear": "99.50%",
     "time": 177,
-    "timeDay": 103,
-    "timeWeek": 183,
-    "timeMonth": 164,
+    "timeDay": 140,
+    "timeWeek": 164,
+    "timeMonth": 165,
     "timeYear": 177,
     "dailyMinutesDown": {
       "2026-08-31": 777
