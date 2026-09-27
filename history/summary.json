@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.20%",
     "uptimeYear": "99.55%",
-    "time": 325,
-    "timeDay": 395,
-    "timeWeek": 352,
-    "timeMonth": 394,
-    "timeYear": 325,
+    "time": 326,
+    "timeDay": 474,
+    "timeWeek": 362,
+    "timeMonth": 396,
+    "timeYear": 326,
     "dailyMinutesDown": {
       "2026-08-31": 787
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.21%",
     "uptimeYear": "99.55%",
-    "time": 183,
-    "timeDay": 331,
-    "timeWeek": 201,
-    "timeMonth": 184,
-    "timeYear": 183,
+    "time": 184,
+    "timeDay": 354,
+    "timeWeek": 219,
+    "timeMonth": 190,
+    "timeYear": 184,
     "dailyMinutesDown": {
       "2026-08-31": 782
     }
@@ -45,16 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/alpha-cn.wikidot.com.ico",
     "slug": "阿尔法指挥部",
     "status": "up",
-    "uptime": "99.55%",
+    "uptime": "99.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.23%",
-    "uptimeYear": "99.55%",
-    "time": 178,
-    "timeDay": 273,
-    "timeWeek": 194,
-    "timeMonth": 177,
-    "timeYear": 178,
+    "uptimeYear": "99.56%",
+    "time": 179,
+    "timeDay": 365,
+    "timeWeek": 222,
+    "timeMonth": 182,
+    "timeYear": 179,
     "dailyMinutesDown": {
       "2026-08-31": 777
     }
