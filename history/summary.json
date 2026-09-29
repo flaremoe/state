@@ -13,7 +13,7 @@
     "time": 327,
     "timeDay": 458,
     "timeWeek": 316,
-    "timeMonth": 404,
+    "timeMonth": 396,
     "timeYear": 327,
     "dailyMinutesDown": {
       "2026-08-31": 787
@@ -24,19 +24,20 @@
     "url": "http://cicnsandbox.wikidot.com",
     "icon": "https://icons.duckduckgo.com/ip3/cicnsandbox.wikidot.com.ico",
     "slug": "混沌中文沙盒站",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.21%",
     "uptimeYear": "99.56%",
-    "time": 186,
-    "timeDay": 432,
-    "timeWeek": 247,
-    "timeMonth": 203,
-    "timeYear": 186,
+    "time": 201,
+    "timeDay": 1228,
+    "timeWeek": 469,
+    "timeMonth": 255,
+    "timeYear": 201,
     "dailyMinutesDown": {
-      "2026-08-31": 782
+      "2026-08-31": 782,
+      "2026-09-29": 0
     }
   },
   {
@@ -45,15 +46,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/alpha-cn.wikidot.com.ico",
     "slug": "阿尔法指挥部",
     "status": "up",
-    "uptime": "99.56%",
+    "uptime": "99.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.23%",
-    "uptimeYear": "99.56%",
+    "uptimeYear": "99.57%",
     "time": 181,
     "timeDay": 369,
     "timeWeek": 225,
-    "timeMonth": 192,
+    "timeMonth": 189,
     "timeYear": 181,
     "dailyMinutesDown": {
       "2026-08-31": 777
