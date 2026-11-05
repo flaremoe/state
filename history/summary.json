@@ -12,8 +12,8 @@
     "uptimeYear": "99.66%",
     "time": 373,
     "timeDay": 346,
-    "timeWeek": 353,
-    "timeMonth": 527,
+    "timeWeek": 369,
+    "timeMonth": 519,
     "timeYear": 373,
     "dailyMinutesDown": {
       "2026-08-31": 787
@@ -24,22 +24,23 @@
     "url": "http://cicnsandbox.wikidot.com",
     "icon": "https://icons.duckduckgo.com/ip3/cicnsandbox.wikidot.com.ico",
     "slug": "混沌中文沙盒站",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.59%",
-    "time": 255,
-    "timeDay": 304,
-    "timeWeek": 305,
-    "timeMonth": 444,
-    "timeYear": 255,
+    "time": 285,
+    "timeDay": 2784,
+    "timeWeek": 1025,
+    "timeMonth": 594,
+    "timeYear": 285,
     "dailyMinutesDown": {
       "2026-08-31": 782,
       "2026-09-30": 113,
       "2026-09-29": 18,
-      "2026-10-18": 28
+      "2026-10-18": 28,
+      "2026-11-05": 0
     }
   },
   {
@@ -55,8 +56,8 @@
     "uptimeYear": "99.66%",
     "time": 231,
     "timeDay": 319,
-    "timeWeek": 306,
-    "timeMonth": 409,
+    "timeWeek": 313,
+    "timeMonth": 407,
     "timeYear": 231,
     "dailyMinutesDown": {
       "2026-08-31": 777
